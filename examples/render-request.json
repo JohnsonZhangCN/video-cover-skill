@@ -1,0 +1,14 @@
+{
+  "title": "爱你",
+  "video": "D:/videos/爱你.mp4",
+  "output": "D:/covers/episode-01",
+  "time": 45.4,
+  "source_crop": [0, 0, 1, 0.87],
+  "subject_box": [0.40, 0.35, 0.655, 0.61],
+  "ratios": {"landscape": "4:3", "portrait": "3:4"},
+  "design": {
+    "layout": "auto",
+    "title_color": "#D85886",
+    "stroke_color": "#FFF7E8"
+  }
+}

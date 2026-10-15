@@ -1,0 +1,13 @@
+.test-tmp/
+__pycache__/
+*.pyc
+outputs/
+.venv*/
+.cache/
+dist/
+*.mp4
+*.mp3
+*.lrc
+.env
+.env.*
+!.env.example

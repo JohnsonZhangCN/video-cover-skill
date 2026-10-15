@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频双封面"
+  short_description: "输入视频标题与文件路径，自动选帧并制作横版和竖版两张封面"
+  default_prompt: "使用 $video-cover 根据视频标题和本地视频文件，制作横竖两张发布封面。"
